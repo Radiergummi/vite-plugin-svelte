@@ -55,9 +55,9 @@
   },
   "devDependencies": {
     "@types/debug": "^4.1.12",
-    "esbuild": "^0.19.5",
+    "esbuild": "^0.19.6",
     "sass": "^1.69.5",
-    "svelte": "^4.2.3",
+    "svelte": "^4.2.5",
     "vite": "^5.0.0"
   }
 }
